@@ -1,0 +1,7 @@
+In my first day at Ryaz.io. I completed my task installing Ubuntu where already Windows 10 installed.
+i tried 3 methods
+Step 1:- installed at SSD where i had advantage of speed but limited space and i have only 120gb ssd where is 27gb free and Ubuntu OS need 20gb or higher.
+Step 2:- Installed at HDD where i had advantage of Space but slow boot speed
+Step 3:- Compromise between SSD and HDD where root parition of linux at SDD and Home directory on HDD (with this method i am getting speed as well as space) but it doesn;t work for me cause of 27gb free space at SDD.
+
+But at the End, i am replacing my windows 10 to Ubuntu and with this replacement i completed my first task which gave by the Mentor(Shiv Charan). Thank you Shiv Charan brother to helping me in all these things.I am fortunate to have a mentor like you.
