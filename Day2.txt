@@ -1,0 +1,5 @@
+At my 2nd day, i do some task
+* setup my system vscode, git, gcc etc.
+* Then mentor provides the links where i refreshing Html and Css attributes and one drive is complete.
+* I learn my things from that course how many types we do same works with different ways.
+* leaning some new things in css like:- inheritence, different-different selector, normalizing etc.
