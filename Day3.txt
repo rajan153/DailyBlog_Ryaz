@@ -1,0 +1,8 @@
+At 3rd Day, I start my jounery with css foundamentals where i completed some topics and learns many important topics.
+* Css Selectors.
+* Pseudo selectors and some others.
+* img vs background image why we use it different way and how its works.
+* taking Depth knowledge of Flex.
+* taking basic knowledge of Grid.
+* completed games and solve levels of flex and grid.
+* made a project Parallax Effect using html and css.(https://rajan153.github.io/Parallax_Effect/).
