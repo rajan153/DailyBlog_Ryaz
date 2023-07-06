@@ -1,0 +1,11 @@
+I started my day 4th at Ryaz with css and again i made foundation strong of css and i made hand made notes of css from starting. Following thing which i learn:-
+
+* Specificity(for weight)
+* colors mapping of hexa and rgb
+* about units and pixels and how they are working in depth
+* 2d and 3d transition.
+* Leant Grid advance and how we can make layouts with using template and grid auto(i made also layout at this topic)
+* Media QUeries (i made layout on this topic).
+*3rd drive complete with project.
+* solved many problems in project like image not dectect and icons not detect(svg img) (image problem solved and for icons that function now no longer in used).
+project link:- https://rajan153.github.io/clone_moshify/
