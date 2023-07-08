@@ -1,0 +1,6 @@
+At 6th day, i complete my all pending exercise from previous lecture.I made project about
+* Blog Page.
+* Image Page(Hero Section).
+* Menu and Icons.
+* Sign In Form.
+* Animation Card.
