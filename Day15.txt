@@ -1,0 +1,5 @@
+At the 15th day in Ryaz.
+I added Search Bar.
+Menu bar fixing(pending).
+Mobile View Fixing(pending).
+
