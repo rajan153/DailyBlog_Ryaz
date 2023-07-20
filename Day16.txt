@@ -1,0 +1,18 @@
+At day 16th at Ryaz. i Started my day with my same project which is Apple Watch Project.
+then i made a Handmade notes for HTML.
+After the Notes i started the JavaScript where i learn many basic concept of javaScript.
+* What is JavaScript ?
+* What can we do with Javascript ?
+* Adding JS in Code.
+* how we intialize the variable ?
+* Difference between var, let and const.
+* Which rules we are following to intialize the variable.
+* Primitives Types.
+* Dynamic Typing.
+* Refrence Type (objects and Arrays).
+* Operators.
+* Operator Precedence.
+* loops.
+* Conditions Statements.
+* Switch Statement.
+* String Operations.
