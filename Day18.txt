@@ -1,0 +1,11 @@
+At 18th Day at Ryaz. i learnt little bit about JAVASCIPT Basic cause of health issue. Today, i learnt:-
+* Constructor Property
+* How we can write or works(Default-Constructor). 
+* Functions are Objects.
+* difference between Primitve and Referrence.
+* Pass by Value.
+* Pass by Reference.
+* Iterating through Objects(For-in).
+* How we can find out any property exits in object ?
+* Object Cloning (Iteration, Assign, Spread).
+* Garbage Collection.
