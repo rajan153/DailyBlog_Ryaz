@@ -1,0 +1,25 @@
+At 17th Day at Ryaz, i Started with my HTML concepts, when ever i made projects then i confused everytime which tag now i use or which not. i always confused at DIV and SPAN. i always confused at Section, Article, Header. But Today, i tried to solve my these problem and i get success. I also completed my handmade notes of HTML. Today, which things i learned:-
+
+IN HTML:-
+
+* <pre> tag.
+* difference span vs div tag.
+* figure tag and figcaption tag.
+* sup and sub tag.
+* Quotaion and Citation tag.
+* thead, tbody and tfoot tag.
+* Semantic Tags.
+* how we use these tag with good practice.
+* Nav tag.
+
+IN JAVASCRIPT:-
+
+* What is Objects ?
+* How we create Objects.
+* How we access Objects.
+* Factory Function.
+* Constructor Function.
+* This Keyword.
+* Dynamic Nature of Objects.(Add, Delete).
+* Constructor Property (how we can constructor of object)
+* Default Constructor (in depth knowledge pending)
