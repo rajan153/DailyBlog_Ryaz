@@ -1,0 +1,32 @@
+At 19th day at Ryaz, I started with JavaScript. Today, i completed all basics of JavaScript and i made handmade notes of JavaScript Basics, Which things i learnt Today:-
+
+* In-Built Objects.
+* Template Literal.
+* Date and Time.
+* What is Array ?
+* Creation of Array.
+* Insertion and Removing in Array (Start, Middle, End).
+* Searching in Array(In Primitive and Referrences).
+* CallBack Function.
+* Arrow Function.
+* How we Array into Empty Array (3 Method).
+* Combining and Slicing Arrays (In Primitive and Object).
+* Speard Operator.
+* Iterating an Array(For-of and For-Each).
+* Joining two or more Array.
+* Sorting Array and how it's works(For Primitve and Object)(in-Depth).
+* Filtering Array.
+* Mapping Array(Primitive and Objects).
+* Chaining Concept.
+* Reducing an Array.
+* What is Function ?
+* Why we Need of Function ?
+* Function Declration.
+* What is Hoisting ?
+* Named and Anonymous Function Assignment.
+* Build Dynamic Function.
+* what is Argument and how it's works ?(in-Depth).
+* Rest Operator.
+* Default Parameter.
+* what is Getter and Setter nad how it's works.
+* Exception Handing(Try, catch and Throw).
