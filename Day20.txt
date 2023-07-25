@@ -1,0 +1,23 @@
+At 20th day at Ryaz, i started with javaScript basics to make a handmade notes. Then i started from DOM manipulation and Today, which things i learnt:-
+
+* Logical with Non-Boolean.
+* Falsey and Truthy value.
+* Short Circuit Problem with (&& and ||).
+* what is Window ?(Defination part)
+* what is BOM ?(Defination part)
+* What is DOM ?
+* Access the element in DOM.
+* Access the multiple objects.
+* what is document.
+* How DOM created from starting ?
+* Insertion in HTML using JavaScript.
+* Creation in HTML using JavaScript.
+* Access in HTML using JavaScript.
+* Deletion in HTML using JavaScript.
+* Updation in HTML using JavaScript.
+* Changes in CSS using JavaScript.
+* Single and Multiple Changes.
+* Difference between .innerHTML nad .textContent.
+* Difference between .textContent and .innerText.
+* querySelector.
+* Element access with $0. 
