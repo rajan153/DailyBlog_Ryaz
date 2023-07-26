@@ -1,0 +1,26 @@
+At 21th day at Ryaz, i started with Browser Events and which i learnt Today:-
+
+* What is Browser Event ?
+* What is Events ?
+* How we can Mointer Events ?
+* What is EventListner ?
+* What is Interfaces ?
+* What is EventTarget ?
+* How we can add, remove and Dispatch eventListener ?
+* Inherting between eventTarget and Node and Element.
+* Phases of an Event.
+* What is captuing phase ?
+* What is Target phase ?
+* What is Bubbling phase ?
+* How we can set addEventListener at different phases.
+* what is preventDefault ?
+* How to avoid too many Events ?
+* Some optimisation for addEventListener.
+* What is .target property ?
+* What is .nodeName ?
+* how can we write JS at header with full working.(But not Good practice)
+* What is DOMContentLoaded ?
+* How we can see timeStamps of code ?
+* What is Reflow ?
+* What is Repaint ?
+* How Reflow and Repaint are works ?
