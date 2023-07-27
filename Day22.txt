@@ -1,0 +1,24 @@
+At 20th day Ryaz, i Started with Optimization and Performace tht how we make efficient our website which i learnt Today:-
+
+* What is Document Fragment ?
+* What is Single Threading and some Observation ?
+* How JavaScript is Single Threading ?
+* What is Call Stack ?
+* How Call Stack Works ?
+* What is Event Loop ?
+* What is Synchronous and Asynchronous ?
+* What is Race Condition ?
+* What is Concurrency ?
+* What is setTimeout() ?
+* Why most useful setTimeout when it is on 0 ?
+* What is Asynchronous with Feature ?
+* What is Promise ?
+* What is Synchronous and Asynchronous Promise ?
+* What is Pending, FullFiled and Reject ?
+* What is Async-await ?
+* Why we use Async-await ?
+* What is API ?
+* What is Fetch API ?
+* What is JSON ?
+* How we Send and Reterive Data using fetch ?
+* What is Closures ?
