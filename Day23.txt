@@ -1,0 +1,4 @@
+At 23 day at Ryaz, i started my day with new Project which is Password Generator. It will generate passwords for us with their strength like weak, Mediun and Strong.
+Also Four option added here to Include UpperCase, LowerCase, Numbers and Symbols.
+Today, i completed the frontend part of it.
+Functionality part is pending.
