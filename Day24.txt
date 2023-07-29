@@ -1,0 +1,1 @@
+Day 24th at Ryaz, I copleted my first project with JavaScript which is password Generator. It Generate password for us. I learned javaScript from previous days but today, i applied that all concept and finally complete my project. And i learned alot from this project.
