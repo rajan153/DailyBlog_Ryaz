@@ -1,0 +1,2 @@
+25th day at Rayz. I started my day with small project of JavaScript which is Counter or count the number project. Then, fix some issue which is in previous project(Password generator).
+But now, I start Tic - Tac Game Project and rough frontend is ready for this project.
