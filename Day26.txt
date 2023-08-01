@@ -1,0 +1,1 @@
+26th dat at Ryaz. i Started with same project (Tic-Tac-Toe). I made complete frontend today and add some functionality but not properly works. Today, i done excerise to build the confidence in javaScript.
