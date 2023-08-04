@@ -1,0 +1,1 @@
+29th day at Ryaz, i started my day with fixing the bug from previous project. then i started new project which is TODO List and made frontend of it. I revised JavaScript concept.  
