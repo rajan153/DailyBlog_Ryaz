@@ -1,0 +1,1 @@
+30th day at Ryaz, i started my day with JavaScript concept revising, and made searchBar open closing clicking on svg image in ToDo List. 
