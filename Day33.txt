@@ -1,0 +1,3 @@
+33th day at Ryaz, i started my day with learning Events, Async and API request. 
+I made project which is based on XMLHTPRequest which takes the profile link of github profile and gives a output of image, Username, Name, Followers counting and Id number.
+First time i made a project based on API request and i learnt a alot.
