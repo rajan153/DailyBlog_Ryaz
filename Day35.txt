@@ -1,0 +1,1 @@
+35th day at Ryaz, i made Todo List app and add functionality but in removing i have some problem in removing element it not working with svg file i tried to solve the problem. almost, project is ready only two functionality is pending.
