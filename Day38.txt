@@ -1,0 +1,1 @@
+at 38th day at Ryaz, i fixed my major issues from Apple watch project. i learn more new things about implementation, dubugging and responsive from my mentor. And menuBar problem solved by my mentor.
