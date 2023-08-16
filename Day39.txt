@@ -1,0 +1,19 @@
+39th day at Ryaz, I started my day with Documentation and i learn more new things from documentation. And i observed some thing from the others projects.which i learnt Today,
+* Introduction of Responsive Design.
+* What issues faced and why we used it.
+* Query Conditions.
+* BreakPoints.
+* Styes based on viewport.
+* Logical Properties.
+* How browser Identify the page.
+* How we write one code for differrent language.
+* Macro Layouts with css and Grid.
+* Micro layouts with css, grid, container and combining queries.
+* Text Size, scaling text, Clamping text, line length, line height, Combinations and scale.
+* Web Fonts, Font Loading, Variable fonts.
+* Constrain images.
+* Sizing and loading hints.
+* fetch priority and preloading hints.
+* image decoding.
+* width and piel density descriptor.
+* Presentational images and background images.
