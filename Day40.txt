@@ -1,0 +1,1 @@
+40th day at Ryaz, I started with apple project. i made it again from starting functionality part is done. frontend is done, some mediaQuery is pending, NavBar problem fixing pending.
