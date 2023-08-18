@@ -1,0 +1,1 @@
+41th day at Ryaz, i completed my project apple watch project. I fixed MenuBar problem. I made it responsive.
