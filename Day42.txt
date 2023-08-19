@@ -1,0 +1,1 @@
+42th day at Ryaz, I tried to solve my Todo list saved data using localStorage but not working it saves the data behind.Then i resolved UI of Apple Watch Project. Then after resolving the issues i start new project MovieList App. LeftBar is Complete other is pending.
