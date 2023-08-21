@@ -1,0 +1,1 @@
+43th day at Ryaz, I completed frontend of MovieList Project. Added animations. APIs call is pending.
