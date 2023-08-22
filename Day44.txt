@@ -1,0 +1,2 @@
+44th day at Ryaz, I added the recent view and Movie night api. Added some achor tags in leftBar.
+Functionality of LeftBar is pending and mobile view is pending.
