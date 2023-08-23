@@ -1,0 +1,1 @@
+45th day at Ryaz, I fixed Some Warning in Css, Added responsiveness. LeftBar List Functionality is Pending.
