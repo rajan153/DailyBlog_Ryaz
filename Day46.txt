@@ -1,0 +1,1 @@
+46th day at Ryaz, I added Section in Main. Fix the Issues in Responsive and called the api for genre. Now, Fixing the Genre data at Frontend is Pending.
