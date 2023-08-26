@@ -1,0 +1,1 @@
+47th day at Ryaz. I fixed Ui while clicking on Genre. SearchBar, Searching Done. Create List is Done. Create Event is Done. But Recent View is Pending while Clicking on any movie then automatically added in recent.
