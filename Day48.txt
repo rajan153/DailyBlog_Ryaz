@@ -1,0 +1,1 @@
+48th day at Ryaz, I added recent view working while clicking on any movie. But one more problem occur if i added then it's remove from their own div.
