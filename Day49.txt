@@ -1,0 +1,1 @@
+49th day at Ryaz, Today i complete my project MovieList App. I fixed Recent View without removing from Movie Night. Fixed Modals Position. Added Close Buttons for Modal. Add warning for Modal. Setup for Portfolio Project. Start new Project.
