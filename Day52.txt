@@ -1,0 +1,1 @@
+52th day at Ryaz, I completed desktop view, added animations, added svg images or components.
