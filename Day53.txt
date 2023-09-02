@@ -1,0 +1,1 @@
+53th day at Ryaz, I completed my Portfolio. Added Mobile View, Added MenuBar for Mobile View, Added Functionality of MenuBar.
