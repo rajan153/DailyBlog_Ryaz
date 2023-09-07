@@ -1,0 +1,1 @@
+57th day at Ryaz, i completed all pages of my portfolio. Added Responsiveness. Added routes for all pages.
