@@ -1,0 +1,1 @@
+60th day at Ryaz, I started day with regular Expression how we can match the strings and some loops in JavaScript. Then i made Tic-Tac-Toe Game using React and Basic List using React for understanding basics of React and its components.
