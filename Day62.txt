@@ -1,0 +1,4 @@
+62th day at Ryaz, I revised the concept of React. Some method or function i revised again how its work. And i learnt today:-
+* What is Babel ?
+* What is Transpiliar ?
+* What is NPM and NPX ?
