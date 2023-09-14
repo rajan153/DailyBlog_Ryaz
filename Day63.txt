@@ -1,0 +1,10 @@
+63th day at Ryaz, I started my day with Portfolio project i fixed some svg files. Today i started one project which is simple react Project with Routes and API calls which i learnt today through this project is:-
+* What is Routes ?
+* Installation part of Routes.
+* About Link Tag.
+* About Outlet.
+* About NavLink.
+* How we declare the routes with different ways.
+* What is Loader and how we can use it.
+Today i complete the project Simple React Project.
+Project Link:-https://react-website-k3am42eq1-rajan153.vercel.app/
