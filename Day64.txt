@@ -1,0 +1,9 @@
+64th day at Ryaz, I started with context api and TOday, i learnt about 
+* what is Context API ?
+* why we need it ?
+* Which problem solved it ?
+* How we can create Context Api ?
+* What is provider ?
+* How we Wrap ?
+* How we can create COntext API with two approaches ?
+I made one project where i change dark mode to light mode and light mode to dark mode using toggle button and i used context api
