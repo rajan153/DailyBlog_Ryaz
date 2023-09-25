@@ -1,0 +1,1 @@
+71th day at Ryaz, I start my day with Testimonial Slider project. where data in form of Array there is 3 option to go forward, Backward and Random.
