@@ -1,0 +1,9 @@
+72th day at Ryaz, I started my day with API handling. Then i start with Redux where i learnt.
+* What is Redux ?
+* what is Redux-React ?
+* What is Redux-ToolKit ?
+* What is Flux ?
+* What is Store ?
+* What is Reducers ?
+* What is useSelector ?
+* What is useDispatch ?
