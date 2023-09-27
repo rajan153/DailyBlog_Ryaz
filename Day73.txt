@@ -1,0 +1,1 @@
+73th day at Ryaz, I started my day with redux. And i made todo list with redux for understanding the redux.
