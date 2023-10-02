@@ -1,0 +1,1 @@
+77th day at Ryaz, I started my day with previous blog project there i continue it where i added routes and added some pages. And added functionality on tags categories and blog.
