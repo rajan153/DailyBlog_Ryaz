@@ -1,0 +1,1 @@
+78th day at Ryaz, I started my day with redux and i made counter app using Redux after completing the counter project i started with shopping cart project data fetching is done adding the pages is pending.
