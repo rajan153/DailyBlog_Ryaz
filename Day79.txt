@@ -1,0 +1,6 @@
+79th day at Ryaz, I started with shopping cart project.
+* Fix UI.
+* Pages Added.
+* UI Ready.
+* Adding and Removing functionality is pending.
+
