@@ -1,0 +1,1 @@
+83th day at Ryaz, i started my day with weather app where i complete current location weather data fatching but by search weather is pending.
