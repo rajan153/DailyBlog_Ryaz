@@ -1,0 +1,9 @@
+82th day at Ryaz, I Started day with Handling API. And i learnt some more things like:-
+* What is custom query.
+* Why we use custom query.
+* How we can make custom query.
+* What is Axios.
+* Why we use Axios.
+* What is difference bertween Axios and fetch.
+* How we think about edge cases of API Handling.
+* What is Race Condition.
