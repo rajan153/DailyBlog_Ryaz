@@ -1,0 +1,1 @@
+85th day at Ryaz, i started my day with social media project where i am using appwrite for backend and in the project authencation is added. but database, file uploading and custom query is pending. Today, i learnt also about appwrite and how we use use it. how we can setup it. What is env and why we use it and how we can use it.
