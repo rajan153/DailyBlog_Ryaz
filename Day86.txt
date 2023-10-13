@@ -1,0 +1,1 @@
+86th day at Ryaz, I started my day with Social Media App. Where i configured backend and Redux routes.
