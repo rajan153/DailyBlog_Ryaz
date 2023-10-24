@@ -1,0 +1,7 @@
+94th day at Ryaz, i started my day with backend where Today i learnt about
+* How we can test API's with POSTMAN. 
+* What is MongoDb.
+* How we use CRUD functionality.
+* Run some commands.
+* What is mongoose.
+* How we can connect server with mongodb.
