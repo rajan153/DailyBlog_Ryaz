@@ -1,0 +1,5 @@
+95th day at Ryaz, I started my day with Backend, i starts with the Todo App where Today i learnt about 
+* Contoller.
+* Config.
+* Model.
+* Schema.
