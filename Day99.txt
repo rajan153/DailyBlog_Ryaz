@@ -1,0 +1,1 @@
+99th day at Ryaz, I started my day with Todo App where i made DB connection and Data Model and Controller and Routes and Doing first creation in DB using POSTMAN. And Solve some Problems of Previous Projects.
