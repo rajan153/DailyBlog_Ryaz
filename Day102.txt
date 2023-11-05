@@ -1,0 +1,1 @@
+102th day at Ryaz, I started my day with Blog App where i setup my project and made model, controller, and made all connections, i learnt also about what is MongoDb atlas and how we can handle Database.
