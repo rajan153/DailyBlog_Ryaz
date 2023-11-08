@@ -1,0 +1,1 @@
+105th day at Ryaz, I started my day with revision of Backend Concept and Setup cloud MongoDb and How Backend intreact with Frontend
