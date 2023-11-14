@@ -1,0 +1,1 @@
+110th day at Ryaz, I started my day with Media Handling where i learn about How to upload Image and video on cloundinary and fetch the media from the cloudinary. How to reduce the quality of image and video.
