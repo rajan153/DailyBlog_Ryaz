@@ -1,0 +1,1 @@
+112th day at Ryaz, I started my day with Auth controller where the write logic for SignUp and Login with the OTP function
