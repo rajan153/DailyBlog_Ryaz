@@ -1,0 +1,1 @@
+113th day at Ryaz, I started my day with backend of Major Project where i complete Reset password controller, doing some changes in the User model, and write the middleware of auth.
