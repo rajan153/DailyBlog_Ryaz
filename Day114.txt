@@ -1,0 +1,1 @@
+114th day at Ryaz, I started my day with creating and getting all the course and also for creating Tags and getting all tags. write a controller for course and tags.
