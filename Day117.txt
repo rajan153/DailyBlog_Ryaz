@@ -1,0 +1,1 @@
+117th day at Ryaz, I started with config razorpay and creating payment capturing and initiate payment.
