@@ -1,0 +1,1 @@
+119th day at Ryaz, I started my day with Fixing controllers and functions and then i write function of get course details.
