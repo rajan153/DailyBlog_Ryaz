@@ -1,0 +1,1 @@
+121th day at Ryaz, I started my day with routes and added some pending functions to run the backend.
