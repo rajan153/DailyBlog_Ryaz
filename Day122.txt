@@ -1,0 +1,1 @@
+122th day at Ryaz, I started my day with write code for running backend and fixed some bugs then i tested Api's. It's working fine but Email not receving problem is pending.
