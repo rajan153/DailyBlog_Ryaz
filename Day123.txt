@@ -1,0 +1,1 @@
+123th day at Ryaz, I started my day with testing api. I tested some Api's and fixed code. Create Course API creating problem.
