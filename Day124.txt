@@ -1,0 +1,1 @@
+124th day at Ryaz, I started my day with testing API's and today i completed with backend testing adding some new functions and fixed code. Now i will started with frontend from tomorrow.
