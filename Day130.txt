@@ -1,0 +1,1 @@
+130th day at Ryaz, i started my day with NavBar where i complete the navbar with the integrate the frontend with backend for the catalogs, calling all apis.
