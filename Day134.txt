@@ -1,0 +1,1 @@
+134th day at Ryaz, I started my day with fixing the signup code, it's fixed and i created template for reset password and verify email and update password.
