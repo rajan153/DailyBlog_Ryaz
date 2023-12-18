@@ -1,0 +1,1 @@
+139th day at Ryaz, I started my dayw ith Creating the pages of Settings and profile updation and deleting account, Fixing routes, Creating the pages for Instructor Dashboard.
