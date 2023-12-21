@@ -1,0 +1,1 @@
+142th day at Ryaz, I started my day with Fixing the code. Payment method fixed. and added pending pages and routes.
