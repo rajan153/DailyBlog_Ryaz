@@ -1,0 +1,1 @@
+144th day ar Ryaz, I started my day with fixing the courseProgress bar, Now it's working fine.
