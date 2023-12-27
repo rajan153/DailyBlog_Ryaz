@@ -1,0 +1,1 @@
+145th day at Ryaz, I started my day with review and rating pages added. and deploy the project on Vercel and Render.
